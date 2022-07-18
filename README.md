@@ -34,7 +34,6 @@ Users should be able to:
 
 
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
@@ -56,7 +55,7 @@ Users should be able to:
 
 I plan to work in future projects in order to develop my knowledge on breakpoints and responsiveness to become a better delevoper.
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
+
 
 
 ## Author
